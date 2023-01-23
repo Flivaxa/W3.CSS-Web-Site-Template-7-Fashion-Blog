@@ -34,6 +34,9 @@ a {
     text-decoration: none;
     color: unset;
 }
+html {
+    scroll-behavior: smooth;
+}
 /* End Global Rules */
 
 /* Start Header */
